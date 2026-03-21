@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Albie-Hardy77/Albie-Hardy77/blob/main/GitHubBanner.png?raw=true" alt="banner" />
+  <img src="https://github.com/Albie-Hardy77/Albie-Hardy77/blob/main/GHBanner.png?raw=true" alt="banner" />
 </p>
 
 Student Developer based in the UK, studying A-Level Computer Science, Physics & Further Maths.
