@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Albie-Hardy77/Albie-Hardy77/blob/main/GitHubBanner.png?raw=true" alt="banner" />
+</p>
+
 # Albie Hardy | Software & Aerospace
 
 Student Developer based in the UK, studying A-Level Computer Science, Physics & Further Maths.
