@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Albie-Hardy77/Albie-Hardy77/blob/main/GHBanner.png?raw=true" alt="banner" />
+  <img src=""C:\Users\alban\OneDrive\Documents\GitHub\GHBanner.png"?raw=true" alt="banner" />
 </p>
 
 ## Languages & Tools
