@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GHBanner.png" alt="banner" />
+  <img src="Profile Banner.png" alt="banner" />
 </p>
 
 ## Languages & Tools
